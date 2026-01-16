@@ -145,5 +145,3 @@ These insights are directly relevant for cipher designers, evaluators, and stand
 
 ---
 
-## Repository Structure
-
